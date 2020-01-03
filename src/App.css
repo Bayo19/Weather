@@ -1,3 +1,7 @@
+body {
+    background: rgba(236, 226, 236, 0.78)
+}
+
 .App {
     display: flex;
     justify-content: center;
